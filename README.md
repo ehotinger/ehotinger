@@ -1,6 +1,6 @@
-### Hey!
+### Hey, I'm Eric!
 
-I'm Eric and I'm currently a Principal Engineer at AWS, working on Amazon Redshift.
+I'm a Principal Engineer at Amazon Web Services (AWS) working on Amazon Redshift.
 
 I talk about distributed systems & computing. Outside of GitHub, you can follow me here:
 
