@@ -1,6 +1,8 @@
 ### Hey!
 
-I'm Eric. I talk about distrubted systems & computing. You can follow me here:
+I'm Eric and I'm currently a Principal Engineer at AWS, working on Amazon Redshift.
+
+I talk about distributed systems & computing. Outside of GitHub, you can follow me here:
 
 - 🌐 Blog: https://ehotinger.com/
 - 🐤 Twitter: https://twitter.com/ehotinger
