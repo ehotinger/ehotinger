@@ -1,6 +1,6 @@
 ### Hey, I'm Eric Hotinger!
 
-I'm a Principal Engineer at Amazon Web Services (AWS) working on Amazon Redshift.
+I'm a Senior Principal Engineer at Confluent working on Kafka. Prev: Amazon Web Services (AWS) and Microsoft Azure.
 
 I talk about distributed systems & computing. You can follow me here:
 
